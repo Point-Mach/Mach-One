@@ -21,11 +21,11 @@ The architecture is centered around three pillars of industrial design:
 | Feature | Specification |
 | :--- | :--- |
 | **Gantry Type** | Crossed-XY (CroXY) |
-| **Motion Drive** | SFS1210 Ball Screws (X/Y/Z) |
+| **Motion Drive** | SFS1616 Ball Screws (X/Y/Z) |
 | **Motors** | iSV57T 180W Integrated Servos |
 | **Target Accel** | 30,000 $mm/s^2$ |
 | **Target Speed** | 500 mm/s+ |
-| **Chamber Temp** | 80°C - 110°C (Active) |
+| **Chamber Temp** | up to 110°C (Active) |
 
 ## 🚀 Development Roadmap
 - [x] **Concept:** Motion architecture and kinematic validation.
