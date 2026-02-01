@@ -28,10 +28,10 @@ The architecture is centered around three pillars of industrial design:
 | **Chamber Temp** | up to 110°C (Actively heated) |
 
 ## 🚀 Development Roadmap
-- [x] **Concept:** Motion architecture and goals.
-- [ ] **Phase 1:** Finalizing Motor Mount & Thermal Shielding CAD. (Active)
-- [ ] **Phase 2:** Alpha Frame assembly and Ball-Screw alignment testing.
-- [ ] **Phase 3:** High speed benchmarking of the motion system and firmware optimization.
+- [x] **Concept:** Motion architecture and performance targets.
+- [ ] **Phase 1:** Finalization of the gantry design. (Ongoing)
+- [ ] **Phase 2:** Finalization of the full model.
+- [ ] **Phase 3:** assembly and benchmarking of the motion system, firmware optimization.
 - [ ] **Phase 4:** Public BOM release and documentation.
 
 ---
