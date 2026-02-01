@@ -23,7 +23,7 @@ The architecture is centered around three pillars of industrial design:
 | **Gantry Type** | Crossed-XY (CroXY) |
 | **Motion Drive** | SFS1616 Ball Screws (X/Y) |
 | **Motors** | iSV57T 180W Integrated Servos |
-| **Target Accel** | 30,000 $mm/s^2$ |
+| **Target Accel** | 80,000 $mm/s^2$ |
 | **Target Speed** | 500 mm/s+ |
 | **Chamber Temp** | up to 110°C (Actively heated) |
 
