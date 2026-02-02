@@ -23,7 +23,7 @@ The architecture is centered around three pillars of industrial design:
 | **Gantry Type** | Crossed-XY (CroXY) |
 | **Motion Drive** | SFS1616 Ball Screws (X/Y) |
 | **Max Accel** | 120,000 $mm/s^2$ |
-| **Max Speed** | 1000 mm/s+ |
+| **Max Speed** | 800 mm/s+ |
 | **Chamber Temp** | up to 110°C (Actively heated) |
 
 ## 🚀 Development Roadmap
