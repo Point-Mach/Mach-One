@@ -15,7 +15,7 @@ The architecture is centered around three pillars of industrial design:
 
 * **Thermal Isolation:** A "Cold-Zone" motor configuration ensures that NEMA 23 Integrated Servos remain outside the heated build volume, allowing for high performance during high temperature printing.
 * **Precision Drive:** Replacement of traditional GT2 belts with **SFY1616 Ball Screws** to eliminate belt-stretch, reduce VFA, and provide the mechanical advantage required for high-speed flow.
-* **Closed-Loop Motion:** Driven by **iSV57T Integrated Servos**, providing real-time encoder feedback to achieve target accelerations of **35,000 $mm/s^2$** for **quality prints** and peak accelerations of **80,000 $mm/s^2$**.
+* **Closed-Loop Motion:** Driven by **High performance servos**, providing real-time encoder feedback to achieve target accelerations of **35,000 $mm/s^2$** for **quality prints** and peak accelerations of **80,000 $mm/s^2$**.
 
 ## 📊 Technical Specifications (Targets)
 | Feature | Specification |
