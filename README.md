@@ -24,7 +24,7 @@ The architecture is centered around three pillars of industrial design:
 | **Motion Drive** | SFS1616 Ball Screws (X/Y) |
 | **Max Accel** | 120,000 $mm/s^2$ |
 | **Max Speed** | 800 mm/s+ |
-| **Chamber Temp** | up to 100°C (Actively heated) |
+| **Chamber Temp** | up to 80°C (Actively heated) |
 
 ## 🚀 Development Roadmap
 - [x] **Concept:** Motion architecture and performance targets.
