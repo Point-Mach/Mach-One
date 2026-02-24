@@ -35,5 +35,6 @@ The architecture is centered around three pillars of industrial design:
 
 ---
 
+**Powered by [Duet3D](https://www.duet3d.com/)**
 
 **Developed by Point-Mach Engineering.**
