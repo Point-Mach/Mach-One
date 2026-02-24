@@ -33,7 +33,6 @@ The architecture is centered around three pillars of industrial design:
 - [ ] **Phase 3:** assembly and benchmarking of the motion system, firmware optimization.
 - [ ] **Phase 4:** Public BOM release and documentation.
 
----
 ## 🤝 Partners & Support
 <p align="center">
   <b>Motion Control powered by</b><br>
