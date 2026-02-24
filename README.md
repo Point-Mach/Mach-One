@@ -44,4 +44,6 @@ The architecture is centered around three pillars of industrial design:
   </a>
 </p>
 
+---
+
 **Developed by Point-Mach Engineering.**
