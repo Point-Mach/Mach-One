@@ -34,7 +34,14 @@ The architecture is centered around three pillars of industrial design:
 - [ ] **Phase 4:** Public BOM release and documentation.
 
 ---
-
-**Powered by [Duet3D](https://www.duet3d.com/)**
+## 🤝 Partners & Support
+<p align="center">
+  <b>Motion Control powered by</b><br>
+    <a href="https://www.duet3d.com/">
+    <img src="https://ooznest.co.uk/wp-content/uploads/2023/01/Duet3D-Banner.png" 
+         width="300" 
+         style="background-color: white; padding: 10px; border-radius: 5px;">
+  </a>
+</p>
 
 **Developed by Point-Mach Engineering.**
