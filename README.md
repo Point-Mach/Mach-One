@@ -23,10 +23,10 @@ The design of
 | Feature | Specification |
 | :--- | :--- |
 | **Gantry Type** | Crossed-XY (CroXY) |
-| **Motion Drive** | SFS1616 Ball Screws (X/Y) |
+| **Motion Drive** | SFS1620 Ball Screws (X/Y) |
 | **Max Accel** | 120,000 $mm/s^2$ |
 | **Max Speed** | 1000 mm/s+ |
-| **Chamber Temp** | up to 120°C (Actively heated) |
+| **Chamber Temp** | 100°C+ (Actively heated) |
 
 ## 🚀 Development Roadmap
 - [x] **Concept:** Motion architecture and performance targets.
