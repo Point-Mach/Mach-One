@@ -6,7 +6,7 @@
 ![Motion](https://img.shields.io/badge/Drive-Ball--Screw-green)
 ![Feedback](https://img.shields.io/badge/Control-Closed--Loop-red)
 
-**Mach One** is a high-performance 3D printer engineered to bridge the gap between hobbyist 3D printers and industrial-grade FFF machines. By utilizing a **Stationary-Servo CroXY** gantry and **SFY1616 Ball Screws**, this project aims to bridge the gap between consumer 3d printers, and industrial FFF manufacturing machines.
+**Mach One** is a high-performance 3D printer engineered to bridge the gap between hobbyist 3D printers and industrial-grade FFF machines. By utilizing a **Stationary-Servo CroXY** gantry and **SFY1620 Ball Screws**, this project aims to bridge the gap between consumer 3d printers, and industrial FFF manufacturing machines.
 
 The Project is built from scratch, loosely inspired by other designs like the Pantheon HS3 and Annex K3.
 
@@ -26,15 +26,16 @@ The design of
 | **Motion Drive** | SFS1616 Ball Screws (X/Y) |
 | **Max Accel** | 120,000 $mm/s^2$ |
 | **Max Speed** | 1000 mm/s+ |
-| **Chamber Temp** | up to 80°C (Actively heated) |
+| **Chamber Temp** | up to 120°C (Actively heated) |
 
 ## 🚀 Development Roadmap
 - [x] **Concept:** Motion architecture and performance targets.
 - [x] **Phase 1:** Gantry and kinematic system design.
 - [ ] **Phase 2:** Completion of the full CAD model.
 - [ ] **Phase 3:** Assembly and benchmarking of a single axis kinematic system.
-- [ ] **Phase 4:** Assembly and testing of the full machine.
-- [ ] **Phase 5:** Public BOM release and documentation.
+- [ ] **Phase 4:** Assembly and testing of an unenclosed prototype.
+- [ ] **Phase 5:** Enclosure & custom cnc parts.
+- [ ] **Phase 6:** Public BOM release and documentation.
 
 ## 🤝 Partners & Support
 <p align="center">
